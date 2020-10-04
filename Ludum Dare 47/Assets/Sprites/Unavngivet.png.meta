@@ -1,0 +1,2440 @@
+fileFormatVersion: 2
+guid: 2c57abf60d8b6be4296911b7c9440b19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5801865853008945651
+    second: Samurai standing
+  - first:
+      213: 9012320598619554973
+    second: Samurai after dash
+  - first:
+      213: -1500288947460282405
+    second: sam_walk1
+  - first:
+      213: 4564983708088107113
+    second: Sam_walk2
+  - first:
+      213: -5766354028983021112
+    second: Unavngivet_4
+  - first:
+      213: -1048204725822270790
+    second: Unavngivet_5
+  - first:
+      213: 7737344701267052430
+    second: Unavngivet_6
+  - first:
+      213: 2203445013423772403
+    second: Unavngivet_7
+  - first:
+      213: -4142914387922135262
+    second: sam_stand_left
+  - first:
+      213: 4345825256155213049
+    second: sam_attak_left
+  - first:
+      213: 1292623976519326001
+    second: sam_walk1_left
+  - first:
+      213: 8286088809475663803
+    second: sam_walk2_left
+  - first:
+      213: 8099169276152252882
+    second: Unavngivet_12
+  - first:
+      213: 102837661236488395
+    second: Unavngivet_13
+  - first:
+      213: 2550371633518845093
+    second: Unavngivet_14
+  - first:
+      213: 3045145383486994286
+    second: Unavngivet_15
+  - first:
+      213: -3884210027823133579
+    second: Building
+  - first:
+      213: 6655207743556621531
+    second: Background_building
+  - first:
+      213: -8681286100218187700
+    second: Unavngivet_18
+  - first:
+      213: -5389579007145172688
+    second: Unavngivet_19
+  - first:
+      213: -6019728608079429994
+    second: Unavngivet_20
+  - first:
+      213: 7944778228054539957
+    second: Unavngivet_21
+  - first:
+      213: -7766589841678992443
+    second: Unavngivet_22
+  - first:
+      213: -1162391979568525334
+    second: Unavngivet_23
+  - first:
+      213: 8329568749436536105
+    second: Unavngivet_24
+  - first:
+      213: -7439175683908455205
+    second: Unavngivet_25
+  - first:
+      213: -3852934832424754578
+    second: Unavngivet_26
+  - first:
+      213: 6348309311451584535
+    second: Unavngivet_27
+  - first:
+      213: -8419449303210540034
+    second: Unavngivet_28
+  - first:
+      213: -6064250394776473815
+    second: Unavngivet_29
+  - first:
+      213: -7681442293311810664
+    second: Unavngivet_30
+  - first:
+      213: -2962490150612328168
+    second: Unavngivet_31
+  - first:
+      213: -1467185180396591240
+    second: Enemy
+  - first:
+      213: -3393494752712615794
+    second: enemy_walk1
+  - first:
+      213: 1583203396402585829
+    second: enemy_walk2
+  - first:
+      213: -9040313412896392747
+    second: Unavngivet_35
+  - first:
+      213: 822511444708935846
+    second: Unavngivet_36
+  - first:
+      213: 1211422891031389367
+    second: Unavngivet_37
+  - first:
+      213: -7838999744587192443
+    second: Unavngivet_38
+  - first:
+      213: -3457484795556130124
+    second: Unavngivet_39
+  - first:
+      213: -890948797809819816
+    second: enemy_left
+  - first:
+      213: 4442171798073936423
+    second: enemy_walk1_left
+  - first:
+      213: -3337204669170687166
+    second: enemy_walk2_left
+  - first:
+      213: 8373837274388614469
+    second: Unavngivet_43
+  - first:
+      213: -2123961719826678510
+    second: Unavngivet_44
+  - first:
+      213: 2035060856392737934
+    second: Unavngivet_45
+  - first:
+      213: 3348349795779171809
+    second: Unavngivet_46
+  - first:
+      213: 6951150987000601382
+    second: Unavngivet_47
+  - first:
+      213: 9022352592132090786
+    second: witch
+  - first:
+      213: 2144951696907413771
+    second: Unavngivet_49
+  - first:
+      213: 1895619466103317787
+    second: Unavngivet_50
+  - first:
+      213: 5986381331522542158
+    second: Unavngivet_51
+  - first:
+      213: -3343731864238039754
+    second: Unavngivet_52
+  - first:
+      213: -7838019538143940090
+    second: Unavngivet_53
+  - first:
+      213: 8082834405339577997
+    second: Unavngivet_54
+  - first:
+      213: -8895645969126307389
+    second: Unavngivet_55
+  - first:
+      213: -8710194683629386477
+    second: Unavngivet_56
+  - first:
+      213: 2290991691195579665
+    second: Unavngivet_57
+  - first:
+      213: 5332365746749597348
+    second: Unavngivet_58
+  - first:
+      213: 4866044989522528537
+    second: Unavngivet_59
+  - first:
+      213: -2346943627186978248
+    second: Unavngivet_60
+  - first:
+      213: -7845198327911262554
+    second: Unavngivet_61
+  - first:
+      213: 3820544512048562245
+    second: Unavngivet_62
+  - first:
+      213: 3789846641680610646
+    second: Unavngivet_63
+  - first:
+      213: -2243038558960736931
+    second: Unavngivet_64
+  - first:
+      213: 1678719471166861858
+    second: Unavngivet_65
+  - first:
+      213: -4578726192348359908
+    second: Unavngivet_66
+  - first:
+      213: -2688347707516542230
+    second: Unavngivet_67
+  - first:
+      213: -4165644693010637189
+    second: Unavngivet_68
+  - first:
+      213: 4136343449529029471
+    second: Unavngivet_69
+  - first:
+      213: -2559209781128748533
+    second: Unavngivet_70
+  - first:
+      213: 4868798735793702322
+    second: Unavngivet_71
+  - first:
+      213: 6723471220223285957
+    second: Unavngivet_72
+  - first:
+      213: -6191322369994953517
+    second: Unavngivet_73
+  - first:
+      213: -4250279854711931361
+    second: Unavngivet_74
+  - first:
+      213: 1117323562914960029
+    second: Unavngivet_75
+  - first:
+      213: -8258452257320009419
+    second: Unavngivet_76
+  - first:
+      213: 5222850556973113997
+    second: Unavngivet_77
+  - first:
+      213: -6395413350493500550
+    second: Unavngivet_78
+  - first:
+      213: 40541166674898527
+    second: Unavngivet_79
+  - first:
+      213: 1834772193515715772
+    second: Unavngivet_80
+  - first:
+      213: -8625974719901488621
+    second: Unavngivet_81
+  - first:
+      213: -2154510381574624921
+    second: Unavngivet_82
+  - first:
+      213: -4226605582146180542
+    second: Unavngivet_83
+  - first:
+      213: 7111535979340410958
+    second: Unavngivet_84
+  - first:
+      213: 6930815379869225862
+    second: Unavngivet_85
+  - first:
+      213: -489986195222324631
+    second: Unavngivet_86
+  - first:
+      213: 7602623529403308557
+    second: Unavngivet_87
+  - first:
+      213: 1824136716636376182
+    second: Unavngivet_88
+  - first:
+      213: 3914254418315638716
+    second: Unavngivet_89
+  - first:
+      213: -7167841222001503903
+    second: Unavngivet_90
+  - first:
+      213: 3948415912990184964
+    second: Unavngivet_91
+  - first:
+      213: 1606002366365199398
+    second: Unavngivet_92
+  - first:
+      213: 7498765793026487423
+    second: Unavngivet_93
+  - first:
+      213: 2042943444794132565
+    second: Unavngivet_94
+  - first:
+      213: -1858547472609092861
+    second: Unavngivet_95
+  - first:
+      213: 3030952999818756845
+    second: Unavngivet_96
+  - first:
+      213: 9167107538536861257
+    second: Unavngivet_97
+  - first:
+      213: -498345308924508803
+    second: Unavngivet_98
+  - first:
+      213: -2869480617965105966
+    second: Unavngivet_99
+  - first:
+      213: -4050980508968372775
+    second: Unavngivet_100
+  - first:
+      213: -1205508331439607725
+    second: Unavngivet_101
+  - first:
+      213: 4509398913762768581
+    second: Unavngivet_102
+  - first:
+      213: 4649400294905771546
+    second: Unavngivet_103
+  - first:
+      213: 7599899510625829771
+    second: Unavngivet_104
+  - first:
+      213: -5506046998667489284
+    second: Unavngivet_105
+  - first:
+      213: -8733457873712203794
+    second: Unavngivet_106
+  - first:
+      213: 8787680800535238169
+    second: Unavngivet_107
+  - first:
+      213: -8539915563483967820
+    second: Unavngivet_108
+  - first:
+      213: 4410237848453353690
+    second: Unavngivet_109
+  - first:
+      213: 7842390476978138130
+    second: Unavngivet_110
+  - first:
+      213: 6461043109454815049
+    second: Unavngivet_111
+  - first:
+      213: 2437494786753853253
+    second: Unavngivet_112
+  - first:
+      213: 968690553741265885
+    second: Unavngivet_113
+  - first:
+      213: 7419123150245090862
+    second: Unavngivet_114
+  - first:
+      213: -456314062130207064
+    second: Unavngivet_115
+  - first:
+      213: -4144844028288233842
+    second: Unavngivet_116
+  - first:
+      213: 4227675847045687802
+    second: Unavngivet_117
+  - first:
+      213: -827546197183262038
+    second: Unavngivet_118
+  - first:
+      213: 3715945318807951357
+    second: Unavngivet_119
+  - first:
+      213: 1999513626991236278
+    second: Unavngivet_120
+  - first:
+      213: 4538627227765672931
+    second: Unavngivet_121
+  - first:
+      213: 3570250086396095646
+    second: Unavngivet_122
+  - first:
+      213: -8593496347816715362
+    second: Unavngivet_123
+  - first:
+      213: 1944084794843703806
+    second: Unavngivet_124
+  - first:
+      213: -4620155735542806547
+    second: Unavngivet_125
+  - first:
+      213: 8737430399337774383
+    second: Unavngivet_126
+  - first:
+      213: -2559654543594231081
+    second: Unavngivet_127
+  - first:
+      213: -6812844211561878207
+    second: Unavngivet_128
+  - first:
+      213: -8681104172405563731
+    second: Unavngivet_129
+  - first:
+      213: -8152615448201875222
+    second: Unavngivet_130
+  - first:
+      213: 7079472378973068673
+    second: Unavngivet_131
+  - first:
+      213: -6343493055568183138
+    second: Unavngivet_132
+  - first:
+      213: 3782056123426586057
+    second: Unavngivet_133
+  - first:
+      213: -5045602391779955301
+    second: Unavngivet_134
+  - first:
+      213: 4560003286629139450
+    second: Unavngivet_135
+  - first:
+      213: 8192431007043400190
+    second: Unavngivet_136
+  - first:
+      213: 4852838687367288859
+    second: Unavngivet_137
+  - first:
+      213: 1513182584921294825
+    second: Unavngivet_138
+  - first:
+      213: 8332430535277482010
+    second: Unavngivet_139
+  - first:
+      213: -8500969737800797794
+    second: Unavngivet_140
+  - first:
+      213: 4076481308444658717
+    second: Unavngivet_141
+  - first:
+      213: 2441138062069743459
+    second: Unavngivet_142
+  - first:
+      213: -2621628828646177064
+    second: Unavngivet_143
+  - first:
+      213: -3821376750600592456
+    second: Unavngivet_144
+  - first:
+      213: 7969585102722068467
+    second: Unavngivet_145
+  - first:
+      213: -2607682845088330316
+    second: Unavngivet_146
+  - first:
+      213: 4168047278518977787
+    second: Unavngivet_147
+  - first:
+      213: 5572040821320715337
+    second: Unavngivet_148
+  - first:
+      213: -4834118741919441747
+    second: Unavngivet_149
+  - first:
+      213: 3852677050698089095
+    second: Unavngivet_150
+  - first:
+      213: 2025071033531384351
+    second: Unavngivet_151
+  - first:
+      213: -7276942192551050254
+    second: Unavngivet_152
+  - first:
+      213: -7254721125840718726
+    second: Unavngivet_153
+  - first:
+      213: 792621564737877673
+    second: Unavngivet_154
+  - first:
+      213: 4554103096597707042
+    second: Unavngivet_155
+  - first:
+      213: 55570385249034901
+    second: Unavngivet_156
+  - first:
+      213: -7790665830839647224
+    second: Unavngivet_157
+  - first:
+      213: -3341291300665174447
+    second: Unavngivet_158
+  - first:
+      213: 7326322794548447805
+    second: Unavngivet_159
+  - first:
+      213: 6773324708959813774
+    second: Unavngivet_160
+  - first:
+      213: 6394839944874271442
+    second: Unavngivet_161
+  - first:
+      213: -7015822282825298909
+    second: Unavngivet_162
+  - first:
+      213: 5561665534305748741
+    second: Unavngivet_163
+  - first:
+      213: -7850907284318891239
+    second: Unavngivet_164
+  - first:
+      213: 5482213647621526345
+    second: Unavngivet_165
+  - first:
+      213: 3240881951383626469
+    second: Unavngivet_166
+  - first:
+      213: -3443168272842947521
+    second: Unavngivet_167
+  - first:
+      213: -125747691321704745
+    second: Unavngivet_168
+  - first:
+      213: -7890109666284311834
+    second: Unavngivet_169
+  - first:
+      213: -6125612205345047348
+    second: Unavngivet_170
+  - first:
+      213: -6017636955646011057
+    second: Unavngivet_171
+  - first:
+      213: -5750750535597033762
+    second: Unavngivet_172
+  - first:
+      213: 5381204071872504394
+    second: Unavngivet_173
+  - first:
+      213: 8068037509535546445
+    second: Unavngivet_174
+  - first:
+      213: 7034278619432103853
+    second: Unavngivet_175
+  - first:
+      213: 2716793200664281202
+    second: Unavngivet_176
+  - first:
+      213: 470899486612195309
+    second: Unavngivet_177
+  - first:
+      213: 6622282995820218079
+    second: Unavngivet_178
+  - first:
+      213: 5505541708346112851
+    second: Unavngivet_179
+  - first:
+      213: 8652351903753850975
+    second: Unavngivet_180
+  - first:
+      213: 7042951822869973704
+    second: Unavngivet_181
+  - first:
+      213: -1764938701984254322
+    second: Unavngivet_182
+  - first:
+      213: 8609892749963112740
+    second: Unavngivet_183
+  - first:
+      213: 2877174460665334001
+    second: Unavngivet_184
+  - first:
+      213: 4376934569892042108
+    second: Unavngivet_185
+  - first:
+      213: 4083767746847575456
+    second: Unavngivet_186
+  - first:
+      213: 4813857488367921761
+    second: Unavngivet_187
+  - first:
+      213: 8766634485995495124
+    second: Unavngivet_188
+  - first:
+      213: -6405425958501992570
+    second: Unavngivet_189
+  - first:
+      213: -5328016799779975547
+    second: Unavngivet_190
+  - first:
+      213: 3302216529083246598
+    second: Unavngivet_191
+  - first:
+      213: -4387774633329014061
+    second: Unavngivet_192
+  - first:
+      213: 542615643142145994
+    second: Unavngivet_193
+  - first:
+      213: -7031582598397535752
+    second: Unavngivet_194
+  - first:
+      213: 8044963892141240439
+    second: Unavngivet_195
+  - first:
+      213: -1741711931497601816
+    second: Unavngivet_196
+  - first:
+      213: 4784769074862464671
+    second: Unavngivet_197
+  - first:
+      213: 1749507092037279668
+    second: Unavngivet_198
+  - first:
+      213: -3406828964651113231
+    second: Unavngivet_199
+  - first:
+      213: -5179745890821626028
+    second: Unavngivet_200
+  - first:
+      213: 5046725458857537108
+    second: Unavngivet_201
+  - first:
+      213: -1961829049733484996
+    second: Unavngivet_202
+  - first:
+      213: -1039308152800740165
+    second: Unavngivet_203
+  - first:
+      213: 4128690806113975883
+    second: Unavngivet_204
+  - first:
+      213: -2714026317856749258
+    second: Unavngivet_205
+  - first:
+      213: -2620260564289065292
+    second: Unavngivet_206
+  - first:
+      213: -2598569174024288047
+    second: Unavngivet_207
+  - first:
+      213: 8603078806682240090
+    second: Unavngivet_208
+  - first:
+      213: 4150951934584263597
+    second: Unavngivet_209
+  - first:
+      213: -1865911730079172635
+    second: Unavngivet_210
+  - first:
+      213: -3216574730344864879
+    second: Unavngivet_211
+  - first:
+      213: -6810677214508013632
+    second: Unavngivet_212
+  - first:
+      213: 2201215973935289181
+    second: Unavngivet_213
+  - first:
+      213: 390619137349208736
+    second: Unavngivet_214
+  - first:
+      213: 5152434870521286004
+    second: Unavngivet_215
+  - first:
+      213: 172898098886897621
+    second: Unavngivet_216
+  - first:
+      213: -929173824719097249
+    second: Unavngivet_217
+  - first:
+      213: -3871990124100028787
+    second: Unavngivet_218
+  - first:
+      213: 2886764322561157426
+    second: Unavngivet_219
+  - first:
+      213: -301153384702032753
+    second: Unavngivet_220
+  - first:
+      213: -6094367399904498731
+    second: Unavngivet_221
+  - first:
+      213: 2536648167161006990
+    second: Unavngivet_222
+  - first:
+      213: -3376353751646518773
+    second: Unavngivet_223
+  - first:
+      213: -8078133820172117451
+    second: Unavngivet_224
+  - first:
+      213: -1189285637635199763
+    second: Unavngivet_225
+  - first:
+      213: -4761950072819217728
+    second: Unavngivet_226
+  - first:
+      213: -2209578808592775400
+    second: Unavngivet_227
+  - first:
+      213: -4823168941668135850
+    second: Unavngivet_228
+  - first:
+      213: -2564989701941014877
+    second: Unavngivet_229
+  - first:
+      213: 5332998092878527530
+    second: Unavngivet_230
+  - first:
+      213: 4969413255196564293
+    second: Unavngivet_231
+  - first:
+      213: 574609743465132314
+    second: Unavngivet_232
+  - first:
+      213: -8321420117488380103
+    second: Unavngivet_233
+  - first:
+      213: 7581937720034355849
+    second: Unavngivet_234
+  - first:
+      213: -4115593335210906037
+    second: Unavngivet_235
+  - first:
+      213: -5204934346883789225
+    second: Unavngivet_236
+  - first:
+      213: -8830737786625213378
+    second: Unavngivet_237
+  - first:
+      213: 2544485220961086843
+    second: Unavngivet_238
+  - first:
+      213: 832407388390238731
+    second: Unavngivet_239
+  - first:
+      213: -6756529859242907205
+    second: Unavngivet_240
+  - first:
+      213: 287983158440745379
+    second: Unavngivet_241
+  - first:
+      213: -6217868785523010094
+    second: Unavngivet_242
+  - first:
+      213: -3952573149880723500
+    second: Unavngivet_243
+  - first:
+      213: -1576839390461332398
+    second: Unavngivet_244
+  - first:
+      213: -887028706149780219
+    second: Unavngivet_245
+  - first:
+      213: -3845626643885926574
+    second: Unavngivet_246
+  - first:
+      213: -5632975537721615909
+    second: Unavngivet_247
+  - first:
+      213: 8282741041695533115
+    second: Unavngivet_248
+  - first:
+      213: -1451788687970638290
+    second: Unavngivet_249
+  - first:
+      213: -2697172102001553354
+    second: Unavngivet_250
+  - first:
+      213: -5761368457106647308
+    second: Unavngivet_251
+  - first:
+      213: -8514612526950492998
+    second: Unavngivet_252
+  - first:
+      213: 8424914447653870083
+    second: Unavngivet_253
+  - first:
+      213: -1105362631806247647
+    second: Unavngivet_254
+  - first:
+      213: -1270660807527520499
+    second: Unavngivet_255
+  - first:
+      213: 7328112032236800878
+    second: Unavngivet_256
+  - first:
+      213: 8970080975342519402
+    second: Samurai standing
+  - first:
+      213: -3092261624334642737
+    second: Samurai after dash
+  - first:
+      213: 2984650660698934308
+    second: sam_walk1
+  - first:
+      213: 1311197025395651642
+    second: Sam_walk2
+  - first:
+      213: 1634524922022107830
+    second: Unavngivet_4
+  - first:
+      213: 6843908876386668723
+    second: Unavngivet_5
+  - first:
+      213: -4253063800803423837
+    second: Unavngivet_6
+  - first:
+      213: 8019463368070119956
+    second: Unavngivet_7
+  - first:
+      213: -8585474623736705815
+    second: sam_stand_left
+  - first:
+      213: -4978605867133911346
+    second: sam_attak_left
+  - first:
+      213: 2627060305716229067
+    second: sam_walk1_left
+  - first:
+      213: 9222051799409967632
+    second: sam_walk2_left
+  - first:
+      213: 7129719535534886999
+    second: Unavngivet_12
+  - first:
+      213: -1412778048359979709
+    second: Unavngivet_13
+  - first:
+      213: 5373451943051200348
+    second: Unavngivet_14
+  - first:
+      213: -5359955581256616618
+    second: Unavngivet_15
+  - first:
+      213: 2450765730324246627
+    second: Building
+  - first:
+      213: -4493831183410100841
+    second: Background_building
+  - first:
+      213: 8508947225565444461
+    second: Unavngivet_18
+  - first:
+      213: -2827009632428133358
+    second: Unavngivet_19
+  - first:
+      213: -7649672889048779200
+    second: Unavngivet_20
+  - first:
+      213: -628869761691445380
+    second: Unavngivet_21
+  - first:
+      213: -8016549246434429220
+    second: Unavngivet_22
+  - first:
+      213: 7115483657684939372
+    second: Unavngivet_23
+  - first:
+      213: 8727043559043847618
+    second: Unavngivet_24
+  - first:
+      213: 1836307966557949073
+    second: Unavngivet_25
+  - first:
+      213: 7615032456336673222
+    second: Unavngivet_26
+  - first:
+      213: 7494513605165870636
+    second: Unavngivet_27
+  - first:
+      213: -2100539256585025008
+    second: Unavngivet_28
+  - first:
+      213: -7608209065789575069
+    second: Unavngivet_29
+  - first:
+      213: 7519199238812132487
+    second: Unavngivet_30
+  - first:
+      213: 347050996064153476
+    second: Unavngivet_31
+  - first:
+      213: 2263753696196947815
+    second: Enemy
+  - first:
+      213: -6685583218648298935
+    second: enemy_walk1
+  - first:
+      213: 7119120217696738686
+    second: enemy_walk2
+  - first:
+      213: 8617398225590381027
+    second: Unavngivet_35
+  - first:
+      213: -4550955486978938559
+    second: Unavngivet_36
+  - first:
+      213: 4404539849608459760
+    second: Unavngivet_37
+  - first:
+      213: -1877122625258422554
+    second: Unavngivet_38
+  - first:
+      213: 6898632999757013505
+    second: Unavngivet_39
+  - first:
+      213: 8876338769226009880
+    second: enemy_left
+  - first:
+      213: -2502884909129422573
+    second: enemy_walk1_left
+  - first:
+      213: 3163671213496048052
+    second: enemy_walk2_left
+  - first:
+      213: -849046237498724490
+    second: Unavngivet_43
+  - first:
+      213: 5853267600110098966
+    second: Unavngivet_44
+  - first:
+      213: 2552354291532770339
+    second: Unavngivet_45
+  - first:
+      213: -8660135370251390030
+    second: Unavngivet_46
+  - first:
+      213: 6698388000971137728
+    second: Unavngivet_47
+  - first:
+      213: 9037084753969735632
+    second: witch
+  - first:
+      213: -7566976516306893377
+    second: Unavngivet_49
+  - first:
+      213: 3422764197431733518
+    second: Unavngivet_50
+  - first:
+      213: 1923550127370131483
+    second: Unavngivet_51
+  - first:
+      213: -8515386067070054696
+    second: Unavngivet_52
+  - first:
+      213: 7463348944974311308
+    second: Unavngivet_53
+  - first:
+      213: -5017302555697751468
+    second: Unavngivet_54
+  - first:
+      213: 6453867410350651148
+    second: Unavngivet_55
+  - first:
+      213: -7995893866791327966
+    second: Unavngivet_56
+  - first:
+      213: -4967814968020496747
+    second: Unavngivet_57
+  - first:
+      213: 2987304360386289734
+    second: Unavngivet_58
+  - first:
+      213: 8883886807044601232
+    second: Unavngivet_59
+  - first:
+      213: 8589291936975999001
+    second: Unavngivet_60
+  - first:
+      213: -1913306461570456264
+    second: Unavngivet_61
+  - first:
+      213: 1725577011603014553
+    second: Unavngivet_62
+  - first:
+      213: -3443871434002072399
+    second: Unavngivet_63
+  - first:
+      213: 8970080975342519402
+    second: Samurai standing
+  - first:
+      213: -3092261624334642737
+    second: Samurai after dash
+  - first:
+      213: -297273555613023534
+    second: Unavngivet_64
+  - first:
+      213: -5801865853008945651
+    second: Samurai
+  - first:
+      213: 9012320598619554973
+    second: Sam_dash
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Samurai
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0edeec0fb1ab7fa0800000000000000
+      internalID: -5801865853008945651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_dash
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9487aac5d1321d70800000000000000
+      internalID: 9012320598619554973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sam_walk1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd76f22b627ed2be0800000000000000
+      internalID: -1500288947460282405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sam_walk2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96089060f741a5f30800000000000000
+      internalID: 4564983708088107113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c11355ef8bc9ffa0800000000000000
+      internalID: -5766354028983021112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab25a710b570471f0800000000000000
+      internalID: -1048204725822270790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8706c7f202906b60800000000000000
+      internalID: 7737344701267052430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2da3bb095349e10800000000000000
+      internalID: 2203445013423772403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sam_stand_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227db0570596186c0800000000000000
+      internalID: -4142914387922135262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sam_attak_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc6d099b097f4c30800000000000000
+      internalID: 4345825256155213049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sam_walk1_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139569478a250f110800000000000000
+      internalID: 1292623976519326001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sam_walk2_left
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7e222eed91ef270800000000000000
+      internalID: 8286088809475663803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d900d0ab87066070800000000000000
+      internalID: 8099169276152252882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8688bde4a5d6100800000000000000
+      internalID: 102837661236488395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac9f1dfc7db46320800000000000000
+      internalID: 2550371633518845093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67b928a797824a20800000000000000
+      internalID: 3045145383486994286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c87922f83881ac0800000000000000
+      internalID: -3884210027823133579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_building
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 1, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd41f159e2c0c5c50800000000000000
+      internalID: 6655207743556621531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4075fa8940e58780800000000000000
+      internalID: -8681286100218187700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a53eb27e5435b0800000000000000
+      internalID: -5389579007145172688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e3b2f89b0a57ca0800000000000000
+      internalID: -6019728608079429994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beb27684b5814e60800000000000000
+      internalID: 7944778228054539957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf09a20b7873490800000000000000
+      internalID: -7766589841678992443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0e0837aa5edfe0800000000000000
+      internalID: -1162391979568525334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250c5a45a2989370800000000000000
+      internalID: 8329568749436536105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4b9e2412db2c890800000000000000
+      internalID: -7439175683908455205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62e7920f20a78ac0800000000000000
+      internalID: -3852934832424754578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71850691fa9b91850800000000000000
+      internalID: 6348309311451584535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c9b5877b182b80800000000000000
+      internalID: -8419449303210540034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f635e456477dba0800000000000000
+      internalID: -6064250394776473815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893dc78aee8066590800000000000000
+      internalID: -7681442293311810664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811a82a67ee13e6d0800000000000000
+      internalID: -2962490150612328168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8776eb61ad283abe0800000000000000
+      internalID: -1467185180396591240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_walk1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88996d7082e7e0d0800000000000000
+      internalID: -3393494752712615794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_walk2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0a4c1d91ba8f510800000000000000
+      internalID: 1583203396402585829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d97c1e39da5a8280800000000000000
+      internalID: -9040313412896392747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c1951dc52a6b00800000000000000
+      internalID: 822511444708935846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4e3b473b6dfc010800000000000000
+      internalID: 1211422891031389367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a08dd347463390800000000000000
+      internalID: -7838999744587192443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b21090a5eb8400d0800000000000000
+      internalID: -3457484795556130124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ffb71f9c6b2a3f0800000000000000
+      internalID: -890948797809819816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_walk1_left
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8477f6b3c5ad30800000000000000
+      internalID: 4442171798073936423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_walk2_left
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2436e4fd80edfa1d0800000000000000
+      internalID: -3337204669170687166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dcbd272a8d53470800000000000000
+      internalID: 8373837274388614469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df33da11c2682e0800000000000000
+      internalID: -2123961719826678510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e846791111dfd3c10800000000000000
+      internalID: 2035060856392737934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e55b21266ab77e20800000000000000
+      internalID: 3348349795779171809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd6407ef2777060800000000000000
+      internalID: 6951150987000601382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abab5c41e5d53d70800000000000000
+      internalID: 9022352592132090786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09a982343664cd10800000000000000
+      internalID: 2144951696907413771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15676a6cd79e4a10800000000000000
+      internalID: 1895619466103317787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a5e639a16e31350800000000000000
+      internalID: 5986381331522542158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ddfe7d59da891d0800000000000000
+      internalID: -3343731864238039754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602fb56f1c2c93390800000000000000
+      internalID: -7838019538143940090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3294211ffb2070800000000000000
+      internalID: 8082834405339577997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9479a4f115c8480800000000000000
+      internalID: -8895645969126307389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31546c5751c2f1780800000000000000
+      internalID: -8710194683629386477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d75111ecc3bcf10800000000000000
+      internalID: 2290991691195579665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66873056e500a40800000000000000
+      internalID: 5332365746749597348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9194f85f22aa78340800000000000000
+      internalID: 4866044989522528537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83247a9a43bfd6fd0800000000000000
+      internalID: -2346943627186978248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a65c58bfa1402390800000000000000
+      internalID: -7845198327911262554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5400939ddfc450530800000000000000
+      internalID: 3820544512048562245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unavngivet_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655749ee07d389430800000000000000
+      internalID: 3789846641680610646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
